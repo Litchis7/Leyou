@@ -11,6 +11,6 @@ spring:
 leyou:
   sms:
     accessKeyId: ************* # 你自己的accessKeyId
-    accessKeySecret: cVGFdZcJUr5cYfw4hheO2KjA5PBeGR # 你自己的AccessKeySecret
+    accessKeySecret: ************ # 你自己的AccessKeySecret
     signName: 乐游商城 # 签名名称
     verifyCodeTemplate: SMS_202562908 # 模板名称
